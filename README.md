@@ -29,7 +29,7 @@
 
 * Add `email`, `offline_access`, `openid`, `profile` and `User.read` as delegated Microsoft Graph permissions
 
-* Run the helper with `./k8s-oidc-helper -c client_secret.json`
+* Run the helper with `./k8s-oidc-helper-azure -c client_secret.json`
 
 * Login to app with your Microsoft account (MSA) or organizational account and accept the permission request
 
